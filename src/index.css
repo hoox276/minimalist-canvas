@@ -8,13 +8,13 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 0 0% 0%;
-    --foreground: 0 0% 100%;
+    --background: 210 100% 13%; /* azul marinho substituindo preto */
+    --foreground: 0 100% 42%; /* vermelho substituindo branco */
 
-    --card: 0 0% 100%;
+    --card: 0 100% 42%;
     --card-foreground: 222.2 84% 4.9%;
 
-    --popover: 0 0% 100%;
+    --popover: 0 100% 42%;
     --popover-foreground: 222.2 84% 4.9%;
 
     --primary: 222.2 47.4% 11.2%;
@@ -38,59 +38,59 @@ All colors MUST be HSL.
 
     --radius: 0.5rem;
 
-    --sidebar-background: 0 0% 98%;
+    --sidebar-background: 0 100% 42%; /* azul marinho substituindo preto */
 
-    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-foreground: 0 100% 42%; /* azul marinho substituindo preto */
 
-    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary: 0 100% 42%; /* azul marinho substituindo preto */
 
-    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-primary-foreground: 0 100% 42%; /* vermelho substituindo branco */
 
-    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent: 0 100% 42%; /* azul marinho substituindo preto */
 
-    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-accent-foreground: 0 100% 42%; /* azul marinho substituindo preto */
 
-    --sidebar-border: 220 13% 91%;
+    --sidebar-border: 0 100% 42%; /* azul marinho substituindo preto */
 
-    --sidebar-ring: 217.2 91.2% 59.8%;
+    --sidebar-ring: 0 100% 42%; /* azul marinho substituindo preto */
   }
 
   .dark {
-    --background: 222.2 84% 4.9%;
-    --foreground: 210 40% 98%;
+    --background: 210 100% 13%; /* azul marinho substituindo preto */
+    --foreground: 0 100% 42%; /* vermelho substituindo branco */
 
-    --card: 222.2 84% 4.9%;
-    --card-foreground: 210 40% 98%;
+    --card: 210 100% 13%; /* azul marinho substituindo preto */
+    --card-foreground: 0 100% 42%; /* vermelho substituindo branco */
 
-    --popover: 222.2 84% 4.9%;
-    --popover-foreground: 210 40% 98%;
+    --popover: 210 100% 13%; /* azul marinho substituindo preto */
+    --popover-foreground: 0 100% 42%; /* vermelho substituindo branco */
 
-    --primary: 210 40% 98%;
-    --primary-foreground: 222.2 47.4% 11.2%;
+    --primary: 0 100% 42%; /* vermelho substituindo branco */
+    --primary-foreground: 210 100% 13%; /* azul marinho substituindo preto */
 
-    --secondary: 217.2 32.6% 17.5%;
-    --secondary-foreground: 210 40% 98%;
+    --secondary: 210 100% 13%; /* azul marinho substituindo preto */
+    --secondary-foreground: 0 100% 42%; /* vermelho substituindo branco */
 
-    --muted: 217.2 32.6% 17.5%;
+    --muted: 210 100% 13%; /* azul marinho substituindo preto */
     --muted-foreground: 215 20.2% 65.1%;
 
-    --accent: 217.2 32.6% 17.5%;
-    --accent-foreground: 210 40% 98%;
+    --accent: 210 100% 13%; /* azul marinho substituindo preto */
+    --accent-foreground: 0 100% 42%; /* vermelho substituindo branco */
 
     --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 210 40% 98%;
+    --destructive-foreground: 0 100% 42%; /* vermelho substituindo branco */
 
-    --border: 217.2 32.6% 17.5%;
-    --input: 217.2 32.6% 17.5%;
+    --border: 210 100% 13%; /* azul marinho substituindo preto */
+    --input: 210 100% 13%; /* azul marinho substituindo preto */
     --ring: 212.7 26.8% 83.9%;
-    --sidebar-background: 240 5.9% 10%;
-    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-background: 210 100% 13%; /* azul marinho substituindo preto */
+    --sidebar-foreground: 0 100% 42%; /* vermelho substituindo branco */
     --sidebar-primary: 224.3 76.3% 48%;
-    --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 240 3.7% 15.9%;
-    --sidebar-accent-foreground: 240 4.8% 95.9%;
-    --sidebar-border: 240 3.7% 15.9%;
-    --sidebar-ring: 217.2 91.2% 59.8%;
+    --sidebar-primary-foreground: 0 100% 42%; /* vermelho substituindo branco */
+    --sidebar-accent: 210 100% 13%; /* azul marinho substituindo preto */
+    --sidebar-accent-foreground: 0 100% 42%; /* vermelho substituindo branco */
+    --sidebar-border: 210 100% 13%; /* azul marinho substituindo preto */
+    --sidebar-ring: 0 100% 42%; /* vermelho substituindo branco */
   }
 }
 
