@@ -8,13 +8,13 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 210 100% 13%; /* azul marinho substituindo preto */
-    --foreground: 0 100% 42%; /* vermelho substituindo branco */
+    --background: 0 0% 0%; /* preto substituindo azul */
+    --foreground: 120 100% 25%; /* verde substituindo laranja */
 
-    --card: 0 100% 42%;
+    --card: 120 100% 25%;
     --card-foreground: 222.2 84% 4.9%;
 
-    --popover: 0 100% 42%;
+    --popover: 120 100% 25%;
     --popover-foreground: 222.2 84% 4.9%;
 
     --primary: 222.2 47.4% 11.2%;
@@ -38,59 +38,59 @@ All colors MUST be HSL.
 
     --radius: 0.5rem;
 
-    --sidebar-background: 0 100% 42%; /* azul marinho substituindo preto */
+    --sidebar-background: 120 100% 25%; /* verde substituindo laranja */
 
-    --sidebar-foreground: 0 100% 42%; /* azul marinho substituindo preto */
+    --sidebar-foreground: 120 100% 25%; /* verde substituindo laranja */
 
-    --sidebar-primary: 0 100% 42%; /* azul marinho substituindo preto */
+    --sidebar-primary: 120 100% 25%; /* verde substituindo laranja */
 
-    --sidebar-primary-foreground: 0 100% 42%; /* vermelho substituindo branco */
+    --sidebar-primary-foreground: 120 100% 25%; /* verde substituindo laranja */
 
-    --sidebar-accent: 0 100% 42%; /* azul marinho substituindo preto */
+    --sidebar-accent: 120 100% 25%; /* verde substituindo laranja */
 
-    --sidebar-accent-foreground: 0 100% 42%; /* azul marinho substituindo preto */
+    --sidebar-accent-foreground: 120 100% 25%; /* verde substituindo laranja */
 
-    --sidebar-border: 0 100% 42%; /* azul marinho substituindo preto */
+    --sidebar-border: 120 100% 25%; /* verde substituindo laranja */
 
-    --sidebar-ring: 0 100% 42%; /* azul marinho substituindo preto */
+    --sidebar-ring: 120 100% 25%; /* verde substituindo laranja */
   }
 
   .dark {
-    --background: 210 100% 13%; /* azul marinho substituindo preto */
-    --foreground: 0 100% 42%; /* vermelho substituindo branco */
+    --background: 0 0% 0%; /* preto substituindo azul */
+    --foreground: 120 100% 25%; /* verde substituindo laranja */
 
-    --card: 210 100% 13%; /* azul marinho substituindo preto */
-    --card-foreground: 0 100% 42%; /* vermelho substituindo branco */
+    --card: 0 0% 0%; /* preto substituindo azul */
+    --card-foreground: 120 100% 25%; /* verde substituindo laranja */
 
-    --popover: 210 100% 13%; /* azul marinho substituindo preto */
-    --popover-foreground: 0 100% 42%; /* vermelho substituindo branco */
+    --popover: 0 0% 0%; /* preto substituindo azul */
+    --popover-foreground: 120 100% 25%; /* verde substituindo laranja */
 
-    --primary: 0 100% 42%; /* vermelho substituindo branco */
-    --primary-foreground: 210 100% 13%; /* azul marinho substituindo preto */
+    --primary: 120 100% 25%; /* verde substituindo laranja */
+    --primary-foreground: 0 0% 0%; /* preto substituindo azul */
 
-    --secondary: 210 100% 13%; /* azul marinho substituindo preto */
-    --secondary-foreground: 0 100% 42%; /* vermelho substituindo branco */
+    --secondary: 0 0% 0%; /* preto substituindo azul */
+    --secondary-foreground: 120 100% 25%; /* verde substituindo laranja */
 
-    --muted: 210 100% 13%; /* azul marinho substituindo preto */
+    --muted: 0 0% 0%; /* preto substituindo azul */
     --muted-foreground: 215 20.2% 65.1%;
 
-    --accent: 210 100% 13%; /* azul marinho substituindo preto */
-    --accent-foreground: 0 100% 42%; /* vermelho substituindo branco */
+    --accent: 0 0% 0%; /* preto substituindo azul */
+    --accent-foreground: 120 100% 25%; /* verde substituindo laranja */
 
     --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 0 100% 42%; /* vermelho substituindo branco */
+    --destructive-foreground: 120 100% 25%; /* verde substituindo laranja */
 
-    --border: 210 100% 13%; /* azul marinho substituindo preto */
-    --input: 210 100% 13%; /* azul marinho substituindo preto */
+    --border: 0 0% 0%; /* preto substituindo azul */
+    --input: 0 0% 0%; /* preto substituindo azul */
     --ring: 212.7 26.8% 83.9%;
-    --sidebar-background: 210 100% 13%; /* azul marinho substituindo preto */
-    --sidebar-foreground: 0 100% 42%; /* vermelho substituindo branco */
+    --sidebar-background: 0 0% 0%; /* preto substituindo azul */
+    --sidebar-foreground: 120 100% 25%; /* verde substituindo laranja */
     --sidebar-primary: 224.3 76.3% 48%;
-    --sidebar-primary-foreground: 0 100% 42%; /* vermelho substituindo branco */
-    --sidebar-accent: 210 100% 13%; /* azul marinho substituindo preto */
-    --sidebar-accent-foreground: 0 100% 42%; /* vermelho substituindo branco */
-    --sidebar-border: 210 100% 13%; /* azul marinho substituindo preto */
-    --sidebar-ring: 0 100% 42%; /* vermelho substituindo branco */
+    --sidebar-primary-foreground: 120 100% 25%; /* verde substituindo laranja */
+    --sidebar-accent: 0 0% 0%; /* preto substituindo azul */
+    --sidebar-accent-foreground: 120 100% 25%; /* verde substituindo laranja */
+    --sidebar-border: 0 0% 0%; /* preto substituindo azul */
+    --sidebar-ring: 120 100% 25%; /* verde substituindo laranja */
   }
 }
 
